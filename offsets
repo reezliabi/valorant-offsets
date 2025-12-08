@@ -1,0 +1,16 @@
+Generated 2025-12-02 21:44:36
+Made by Reezli's Dumper <3
+-------------------------------------------
+ 
+[SUCCESS] -> ProcessEvent: 0x19BF380
+[SUCCESS] -> StaticFindObject: 0x19EB5C0
+[SUCCESS] -> StaticLoadObject: 0x19EF0F0
+[SUCCESS] -> BoneMatrix: 0x3F365D0
+[SUCCESS] -> SetOutlineMode: 0x3EC9F20
+[SUCCESS] -> FMemoryMalloc: 0x15997A0
+[SUCCESS] -> PlayFinisher: 0x5F986D0
+[SUCCESS] -> get_spread_values: 0x6029670
+[SUCCESS] -> get_spread_angles: 0x6B6F6C0
+[SUCCESS] -> tovector_and_normalize: 0x1695DA0
+[SUCCESS] -> toangle_and_normalize: 0x16905A0
+[SUCCESS] -> TriggerVeh: 0x15D0DC6
