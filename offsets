@@ -1,17 +1,17 @@
-Generated 2026-01-21 19:33:29
+Generated 2026-02-03 20:10:56
 Made by Reezli's Dumper <3
 -------------------------------------------
-
-[SUCCESS] -> ProcessEvent: 0x1A07EC0
-[SUCCESS] -> StaticFindObject: 0x1A326E0
-[SUCCESS] -> StaticLoadObject: 0x1A36210
-[SUCCESS] -> BoneMatrix: 0x3F3B960
-[SUCCESS] -> SetOutlineMode: 0x3ECFE40
-[SUCCESS] -> FMemoryMalloc: 0x15E4670
-[SUCCESS] -> PlayFinisher: 0x5F05220
-[SUCCESS] -> get_spread_values: 0x5F91C00
-[SUCCESS] -> get_spread_angles: 0x6ABB020
-[SUCCESS] -> tovector_and_normalize: 0x16E3A40
-[SUCCESS] -> toangle_and_normalize: 0x16DE240
-[SUCCESS] -> GetFiringLocationAndDirection: 0x66D8B40
-[SUCCESS] -> TriggerVeh: 0x161BD76
+ 
+[SUCCESS] -> ProcessEvent: 0x1A4D0C0
+[SUCCESS] -> StaticFindObject: 0x1A78380
+[SUCCESS] -> StaticLoadObject: 0x1A7BEB0
+[SUCCESS] -> BoneMatrix: 0x3FCEA10
+[SUCCESS] -> SetOutlineMode: 0x3F62B80
+[SUCCESS] -> FMemoryMalloc: 0x1626F70
+[SUCCESS] -> PlayFinisher: 0x6066D40
+[SUCCESS] -> get_spread_values: 0x60F8AA0
+[SUCCESS] -> get_spread_angles: 0x6C74E00
+[SUCCESS] -> tovector_and_normalize: 0x17265D0
+[SUCCESS] -> toangle_and_normalize: 0x1720DD0
+[SUCCESS] -> GetFiringLocationAndDirection: 0x68667A0
+[SUCCESS] -> TriggerVeh: 0x165E746
