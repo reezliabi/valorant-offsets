@@ -1,17 +1,17 @@
-Generated 2026-03-03 21:24:48
+Generated 2026-03-05 03:22:00
 Made by Reezli's Dumper <3
 -------------------------------------------
 
-[SUCCESS] -> ProcessEvent: 0x1AF17A0
-[SUCCESS] -> StaticFindObject: 0x1B21270
-[SUCCESS] -> StaticLoadObject: 0x1B24DA0
-[SUCCESS] -> BoneMatrix: 0x4066840
-[SUCCESS] -> SetOutlineMode: 0x3FF9A90
+[SUCCESS] -> ProcessEvent: 0x1AF16E0
+[SUCCESS] -> StaticFindObject: 0x1B211B0
+[SUCCESS] -> StaticLoadObject: 0x1B24CE0
+[SUCCESS] -> BoneMatrix: 0x4065DB0
+[SUCCESS] -> SetOutlineMode: 0x3FF9000
 [SUCCESS] -> FMemoryMalloc: 0x16B5950
-[SUCCESS] -> PlayFinisher: 0x6137B30
-[SUCCESS] -> get_spread_values: 0x61D1470
-[SUCCESS] -> get_spread_angles: 0x6D6F910
-[SUCCESS] -> tovector_and_normalize: 0x17B4EF0
-[SUCCESS] -> toangle_and_normalize: 0x17AF6F0
-[SUCCESS] -> GetFiringLocationAndDirection: 0x694AE60
+[SUCCESS] -> PlayFinisher: 0x61367D0
+[SUCCESS] -> get_spread_values: 0x61D0110
+[SUCCESS] -> get_spread_angles: 0x6D6E8B0
+[SUCCESS] -> tovector_and_normalize: 0x17B4EC0
+[SUCCESS] -> toangle_and_normalize: 0x17AF6C0
+[SUCCESS] -> GetFiringLocationAndDirection: 0x6949E00
 [SUCCESS] -> TriggerVeh: 0x16ED186
